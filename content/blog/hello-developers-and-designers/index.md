@@ -8,8 +8,9 @@ tags: ["Engineering"]
 
 Welcome to our new initiative to contribute and spread the learnings/findings we had working with [LoginRadius API](https://docs.loginradius.com/api)!
 
-We always try to come up with new ideas/process during our development and research sessions..sometimes they are funny but awesome. **:)**. We'll share those ideas and experiences.look forward for your comments/feedback!
+We always try to come up with new ideas/process during our development and research sessions. Sometimes they are funny but awesome. **:)**. We'll share those ideas and experiences.look forward for your comments/feedback!
 
 \--
 
+With Regards
 LoginRadius Engineering team
