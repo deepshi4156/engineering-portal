@@ -13,25 +13,25 @@ const Hacktoberfest = () => {
         <section className="content py-80">
           <div>
             <h2>
-              Hacktoberfest 2020 is here and{" "}
+              Hacktoberfest 2020 is now here and{" "}
               <span className="highlight">LoginRadius</span> welcomes it.
             </h2>
             <p>
               Hacktoberfest 2020 is around the corner and this year
               <span className="highlight"> LoginRadius </span> is welcoming
               Hacktoberfest with open hands by open sourcing some of it's code
-              for people to contribute.
+              for people to contribute meaningfully with much zeal and enthusiasm.
             </p>
             <p>
               Hacktoberfest is a month-long celebration of open-source software
               in October month run by DigitalOcean in partnership with GitHub
               and DEV. Hacktoberfest is open to everyone in our global
-              community!
+              community!So, grab the opportunity to showcase your skills.
             </p>
             <p className="highlight">
               <em>
-                "Open 4 pull requests and win a limited edition t-shirt by
-                DigitalOcean."
+                "Open 4 pull requests and win a limited edition t-shirt by DigitalOcean or plant a tree."
+                
               </em>
             </p>
             <h3>LoginRadius is supporting Hacktoberfest 2020.</h3>
